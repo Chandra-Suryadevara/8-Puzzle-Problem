@@ -7,7 +7,7 @@ This project is a Python implementation of an 8 Puzzle Solver using the Iterativ
 1. Clone or download the project repository to your local machine.
 2. Ensure that you have Python installed on your system.
 3. Open a terminal or command prompt and navigate to the project directory.
-4. Run the `8_puzzle_solver.py` file using the following command: `python 8_puzzle_solver.py`.
+4. Run the `main.py` file using the following command: `python main.py`.
 5. The program will prompt you to input the initial configuration of the puzzle. You can either provide your own input by entering the numbers separated by spaces, or you can press Enter to use the default puzzle configuration.
 6. If you choose to enter your own input, make sure to follow the correct format with 9 numbers separated by spaces. For example: `1 2 3 4 5 6 7 8 0`.
 7. The program will then apply the Iterative Deepening Algorithm to solve the puzzle and display the steps taken to reach the goal configuration.
@@ -20,7 +20,7 @@ This project is a Python implementation of an 8 Puzzle Solver using the Iterativ
 
 ## Files
 
-- `8_puzzle_solver.py`: The main Python script that implements the 8 Puzzle Solver using the Iterative Deepening Algorithm.
+- `main.py`: The main Python script that implements the 8 Puzzle Solver using the Iterative Deepening Algorithm.
 
 ## References
 
